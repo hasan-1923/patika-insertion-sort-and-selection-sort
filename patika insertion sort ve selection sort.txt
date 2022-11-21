@@ -1,0 +1,29 @@
+www.patika.dev
+
+
+[22,27,16,2,18,6] -> Insertion Sort
+
+
+
+[22 , 27] = 27 ile 22 kıyaslanır ve 22 en başa yazılır 27 ise 2. sırada kalır
+
+
+2.ile 3. eleman arasında kıyas yapılır küçük olan 2. sıraya yazılır 
+
+[27 ,16] = 16 2. sıraya 27 ise 3.sıraya yazılır 
+
+bu işlem sırasıyla devam eder  sonuç ise 
+
+    ===[2,6,16,18,22,27]===
+
+ 18 bu dizide average  case olarak görünür.
+
+
+
+[7,3,5,8,2,9,4,15,6] -> Selection Sort
+ 
+[2,7,3,5,8,9,4,15,6]
+
+[2,3,7,5,8,9,4,15,6]
+[2,3,4,7,5,8,9,15,6]
+[2,3,4,5,7,8,9,15,6]
